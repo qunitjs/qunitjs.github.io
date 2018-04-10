@@ -1,22 +1,9 @@
-# qunitjs.com
+# qunitjs.github.io (qunitjs.com)
 
-## Building and Deploying
+This repository houses the content and code for the qunitjs.com website.
 
-We're using GitHub pages. Anything going to the gh-pages branch will be immediately published.
+## Development
 
-### Requirements
-
-This is currenly tested using Jekyll and bundler gems from Ruby 2.4.1.1.
-
-To setup for the first time:
-
-```shell
-gem install jekyll bundler
-bundle install
-```
-
-To run it locally:
-
-```shell
-bundle exec jekyll serve
-```
+1. Install [Ruby](https://www.ruby-lang.org/) and [Bundler](http://bundler.io/).
+2. Install project dependencies by running `bundle install`.
+3. Serve the website with `bundle exec jekyll serve`
