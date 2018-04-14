@@ -39,5 +39,6 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - CNAME
+  - vendor
 
 permalink: title
