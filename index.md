@@ -67,7 +67,7 @@ ok 1 add > should add two numbers
 
 ## Current Release
 
-<p class="current-release">v2.5.1 (<a href="https://github.com/qunitjs/qunit/blob/2.5.1/History.md">changelog</a>)</p>
+<p class="current-release">v2.10.1 (<a href="https://github.com/qunitjs/qunit/blob/2.10.1/History.md">changelog</a>)</p>
 
 <div class="example-results" markdown="1">
 
@@ -80,7 +80,7 @@ These are the officially supported download channels for QUnit releases:
 * npm: `npm install --save-dev qunit`
 * Yarn: `yarn add --dev qunit`
 * Bower: `bower install --save-dev qunit`
-* CDN: [`qunit-2.5.1.js`](https://code.jquery.com/qunit/qunit-2.5.1.js) & [`qunit-2.5.1.css`](https://code.jquery.com/qunit/qunit-2.5.1.css)
+* CDN: [`qunit-2.10.1.js`](https://code.jquery.com/qunit/qunit-2.10.1.js) & [`qunit-2.10.1.css`](https://code.jquery.com/qunit/qunit-2.10.1.css)
 
 </div>
 
